@@ -37,7 +37,7 @@ ORDER BY total_pledge;"
 end
 
 def selects_the_category_names_and_pledge_amounts_of_all_pledges_in_the_music_category
-"SELECT projects.category, SUM(pledges.amount) AS total_pledge
+"SELECT projects.category, pledges.amount AS total_pledge
 FROM projects
 JOIN pledges ON pledges.project_id = projects.id
 WHERE projects.category = 'music'; "
