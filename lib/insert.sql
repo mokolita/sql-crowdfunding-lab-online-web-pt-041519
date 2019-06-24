@@ -8,3 +8,4 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("model_airplanes", "entertainment", 8000, 5-15-19, 6-14-19);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("floors", "remodel", 7000, 6-1-19, 6-10-19);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("puppies", "entertainment", 100, 6-04-19, 6-10-19);
+INSERT INTO users (name, age) VALUES ("Bob", 68);
