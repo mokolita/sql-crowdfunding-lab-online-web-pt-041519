@@ -1,1 +1,1 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
