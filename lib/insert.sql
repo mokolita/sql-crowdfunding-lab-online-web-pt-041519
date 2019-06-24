@@ -1,1 +1,10 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (dance_studio, remodel, 100000, 9_19_19, 9_30_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (kitchen, remodel, 30000, 6_24_19, 6_30_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (new_album, entertainment, 2500, 5_24_19, 6_14_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (books, entertainment, 100, 6_01_19, 6_10_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
