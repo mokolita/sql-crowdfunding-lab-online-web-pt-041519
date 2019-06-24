@@ -1,14 +1,14 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
-("bathroom", "remodel", 10000, 6-24-19, 7-28-19),
-("dance_studio", "remodel", 100000, 9-19-19, 9-30-19),
-("kitchen", "remodel", 30000, 6-24-19, 6-30-19),
-("new_album", "entertainment", 2500, 5-24-19, 6-14-19),
-("books", "entertainment", 100, 6-01-19, 6-10-19),
-("electronics", "business", 250000, 5-24-19, 6-01-19),
-("car", "business", 4000000, 5-15-19, 8-12-19),
-("model_airplanes", "entertainment", 8000, 5-15-19, 6-14-19),
-("floors", "remodel", 7000, 6-1-19, 6-10-19),
-("puppies", "entertainment", 100, 6-04-19, 6-10-19);
+("bathroom", "remodel", 10000, "6-24-19", "7-28-19"),
+("dance_studio", "remodel", 100000, "9-19-19", "9-30-19"),
+("kitchen", "remodel", 30000, "6-24-19", "6-30-19"),
+("new_album", "entertainment", 2500, "5-24-19", "6-14-19"),
+("books", "entertainment", 100, "6-01-19", "6-10-19"),
+("electronics", "business", 250000, "5-24-19", "6-01-19"),
+("car", "business", 4000000, "5-15-19", "8-12-19"),
+("model_airplanes", "entertainment", 8000, "5-15-19", "6-14-19"),
+("floors", "remodel", 7000, "6-1-19", "6-10-19"),
+("puppies", "entertainment", 100, "6-04-19", "6-10-19");
 
 INSERT INTO users (name, age) VALUES ("Bob", 68);
 INSERT INTO users (name, age) VALUES ("Donna", 67);
