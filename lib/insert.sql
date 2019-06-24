@@ -4,7 +4,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (new_album, entertainment, 2500, 5_24_19, 6_14_19);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (books, entertainment, 100, 6_01_19, 6_10_19);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (toys, business, 89000, 6_10_19, 6_30_19);
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (electronics, business, 250000, 5_24_19, 7_28_19);
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (bathroom, remodel, 10000, 6_24_19, 7_28_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (electronics, business, 250000, 5_24_19, 6_01_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (car, business, 4000000, 5_15_19, 8_12_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (model_airplanes, entertainment, 8000, 5_15_19, 6_14_19);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (floors, remodel, 7000, 6_01_19, 6_10_19);
